@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Fraud Detection System", layout="wide")
 
-st.title("💳 Credit Card Fraud Detection System")
+st.title("Credit Card Fraud Detection System")
 st.markdown("Upload transaction dataset to detect fraudulent transactions.")
 
 
